@@ -1,7 +1,12 @@
-.container1 {
+.menu {
   width: 100vw;
   height: 70vh;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 1rem;
 }
 
+hr {
+  width: 10%;
+}
