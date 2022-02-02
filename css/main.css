@@ -3,20 +3,19 @@ main {
   height: 100%;
   background-color:var(-background-color);
   color:var(--main-text-color);
+  grid-area: about;
 }
 
 .menu {
   grid-area: menu;
 }
 
-.container {
-  grid-area: container;
-}
-
 .videos {
+  width: 100vw;
+  height: 70vh;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 
