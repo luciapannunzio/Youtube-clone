@@ -17,11 +17,11 @@ header {
 .nav-left, 
 .nav-middle, 
 .nav-right {
- display: flex;
- justify-content: space-evenly;
- align-items: center;
- padding-right: 2rem;
- padding-left: 6rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-right: 2rem;
+  padding-left: 6rem;
 }
 
 .nav-left {
@@ -36,9 +36,9 @@ header {
 }
 
 input[type=text] {
- width: 350px;
- height: 30px;
- display: block;
+  width: 350px;
+  height: 30px;
+  display: block;
 }
 
 button[type=submit] {

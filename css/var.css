@@ -3,6 +3,6 @@
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   --button-color-red: #FF0000; 
   --main-text-color: #282828;
-  --second-text-color: gray;
+  --second-text-color: rgb(189, 181, 181);
   --background-color: #f8f7f7;
 }
