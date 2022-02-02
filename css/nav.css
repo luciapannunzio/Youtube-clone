@@ -24,17 +24,16 @@ header {
   padding-right: 2rem;
   padding-left: 6rem;
 }
-/* 
-.nav-left {
-  padding-left: 1rem;
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-} */
 
-/* .nav-middle {
-  display: grid;
-  grid-template-columns: 5fr 1fr 1fr;
-} */
+header i {
+  padding-left: 10px;
+  padding-right: 10px;
+} 
+
+button i {
+
+ border: 2px purple solid;
+}
 
 input[type=text] {
   width: 350px;
@@ -67,3 +66,16 @@ button[type=menu] {
   display: grid;
   grid-template-columns: 3fr 3fr 3fr 3fr;
 } */
+
+/* 
+.nav-left {
+  padding-left: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}  */
+
+/* .nav-middle {
+  display: grid;
+  grid-template-columns: 5fr 1fr 1fr;
+} */
+
