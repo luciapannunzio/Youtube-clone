@@ -13,4 +13,9 @@
 body {
   width: 100vw;
   height: 100vh;
+  display: grid;
+  grid-template-columns: 20vw 80vw;
+  grid-template-rows: 20vw 80vw;
+  grid-template-areas: "header header"
+  "menu container";
 }

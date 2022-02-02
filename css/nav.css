@@ -8,6 +8,7 @@ header {
   flex-direction: row;
   justify-content: space-between;
   border: 2px red solid;
+  grid-area: header;
 }
 
 .logo img {
@@ -23,17 +24,17 @@ header {
   padding-right: 2rem;
   padding-left: 6rem;
 }
-
+/* 
 .nav-left {
   padding-left: 1rem;
   display: grid;
   grid-template-columns: 1fr 2fr;
-}
+} */
 
-.nav-middle {
+/* .nav-middle {
   display: grid;
   grid-template-columns: 5fr 1fr 1fr;
-}
+} */
 
 input[type=text] {
   width: 350px;
@@ -62,7 +63,7 @@ button[type=menu] {
   border-radius: 100%;
 }
 
-.nav-right {
+/* .nav-right {
   display: grid;
   grid-template-columns: 3fr 3fr 3fr 3fr;
-}
+} */
