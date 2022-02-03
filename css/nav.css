@@ -25,15 +25,11 @@ header {
   padding-left: 6rem;
 }
 
+
 header i {
   padding-left: 10px;
   padding-right: 10px;
 } 
-
-button i {
-
- border: 2px purple solid;
-}
 
 input[type=text] {
   width: 350px;
