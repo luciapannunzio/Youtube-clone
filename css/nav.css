@@ -19,12 +19,11 @@ header {
 .nav-middle, 
 .nav-right {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   padding-right: 2rem;
   padding-left: 6rem;
 }
-
 
 header i {
   padding-left: 10px;
@@ -38,7 +37,7 @@ input[type=text] {
 }
 
 button[type=submit] {
-  width:45px;
+  width:40px;
   height: 30px;
   display: block;
 }
@@ -48,6 +47,7 @@ button[type=menu] {
   height: 35px;
   border-radius: 100%;
   border: none;
+  margin-left: 1rem;
 }
 
 .nav-right img {
@@ -57,6 +57,11 @@ button[type=menu] {
   width: 2rem;
   border-radius: 100%;
 }
+
+
+.nav-left i {
+   margin-right: 1rem;
+ }
 
 /* .nav-right {
   display: grid;

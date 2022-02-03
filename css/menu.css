@@ -9,4 +9,5 @@
 
 hr {
   width: 10%;
+  color:var(--second-text-color);
 }
