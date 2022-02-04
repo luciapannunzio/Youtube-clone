@@ -5,9 +5,10 @@
   flex-direction: column;
   justify-content: space-around;
   margin-left: 1rem;
+  color:var(-second-text-color);
 }
 
 hr {
-  width: 10%;
+  width: 15%;
   color:var(--second-text-color);
 }

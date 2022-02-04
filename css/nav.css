@@ -1,18 +1,20 @@
 header {
   width: 100vw;
   height: 6vh;
-  background-color:var(--background-color);
   color:var(--main-text-color);
   font-size: 20px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  border: 2px red solid;
   grid-area: header;
+ 
+
 }
 
 .logo img {
   width: 5vw;
+  margin-right: 2rem;
+  
 }
 
 .nav-left, 
@@ -31,7 +33,7 @@ header i {
 } 
 
 input[type=text] {
-  width: 350px;
+  width: 500px;
   height: 30px;
   display: block;
 }
@@ -58,25 +60,10 @@ button[type=menu] {
   border-radius: 100%;
 }
 
-
 .nav-left i {
-   margin-right: 1rem;
+  padding-right: 1rem;
+  border: 2px greenyellow solid;
+  margin-right: 1rem;
  }
 
-/* .nav-right {
-  display: grid;
-  grid-template-columns: 3fr 3fr 3fr 3fr;
-} */
-
-/* 
-.nav-left {
-  padding-left: 1rem;
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-}  */
-
-/* .nav-middle {
-  display: grid;
-  grid-template-columns: 5fr 1fr 1fr;
-} */
 
