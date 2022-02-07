@@ -9,7 +9,7 @@ main {
 }
 
 .videos {
-  width: 80vw;
+  width: 85vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -18,7 +18,7 @@ main {
 }
 
 .banner1 img, .banner2 img {
-  width: 80vw;
+  width: 85vw;
 }
 
 
