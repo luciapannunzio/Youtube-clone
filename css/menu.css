@@ -8,7 +8,13 @@
   color:var(-second-text-color);
 }
 
+.menu i {
+  color:var(--main-text-color);
+  margin-left: 0.7rem;
+  margin-right: 1rem;
+}
+
 hr {
-  width: 15%;
+  width: 13%;
   color:var(--second-text-color);
 }

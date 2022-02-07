@@ -7,8 +7,6 @@ header {
   flex-direction: row;
   justify-content: space-between;
   grid-area: header;
- 
-
 }
 
 .logo img {
@@ -24,7 +22,7 @@ header {
   justify-content: space-around;
   align-items: center;
   padding-right: 2rem;
-  padding-left: 6rem;
+  padding-left: 1rem;
 }
 
 header i {
@@ -60,10 +58,10 @@ button[type=menu] {
   border-radius: 100%;
 }
 
-.nav-left i {
-  padding-right: 1rem;
-  border: 2px greenyellow solid;
+.nav-right i {
+  color:var(--main-text-color);
   margin-right: 1rem;
- }
+}
+
 
 
