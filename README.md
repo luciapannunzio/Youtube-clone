@@ -41,7 +41,7 @@
  - [ ] JavaScript
  - [ ] React
  - [ ] Bootstrap
- - [x] npm
+ - [ ] npm
  - [ ] ...
  
  
@@ -50,11 +50,11 @@
  
 **Contact**
 
-Mail: [myemail](luciapannunzio@mail.com/)
+Mail: [luciapannunzio](https://mail.google.com/mail/u/0/#inbox)
 
 GitHub: [luciapannunzio](https://github.com/luciapannunzio/)
 
-LinkedIn: [mylinkedin](https://www.linkedin.com/in/lucia-pannunzio-van-der-wedden-58bbb9162/)
+LinkedIn: [luciapannunziovanderwedden](https://www.linkedin.com/in/luciapannunziovanderwedden/)
 
 
 * * *
