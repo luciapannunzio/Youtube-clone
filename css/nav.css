@@ -43,6 +43,15 @@ header {
   padding-left: 1rem;
 }
 
+.light {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+
 header i {
   padding-left: 10px;
   padding-right: 10px;
